@@ -1,0 +1,15 @@
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\bin\Debug\net6.0\DZ_Z38.exe
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\bin\Debug\net6.0\DZ_Z38.deps.json
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\bin\Debug\net6.0\DZ_Z38.runtimeconfig.json
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\bin\Debug\net6.0\DZ_Z38.dll
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\bin\Debug\net6.0\DZ_Z38.pdb
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\obj\Debug\net6.0\DZ_Z38.csproj.AssemblyReference.cache
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\obj\Debug\net6.0\DZ_Z38.GeneratedMSBuildEditorConfig.editorconfig
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\obj\Debug\net6.0\DZ_Z38.AssemblyInfoInputs.cache
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\obj\Debug\net6.0\DZ_Z38.AssemblyInfo.cs
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\obj\Debug\net6.0\DZ_Z38.csproj.CoreCompileInputs.cache
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\obj\Debug\net6.0\DZ_Z38.dll
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\obj\Debug\net6.0\refint\DZ_Z38.dll
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\obj\Debug\net6.0\DZ_Z38.pdb
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\obj\Debug\net6.0\DZ_Z38.genruntimeconfig.cache
+D:\03. Обучение GB\03. Знакомство с языками программирования (лекции)\03Seminar5DZ\DZ_Z38\obj\Debug\net6.0\ref\DZ_Z38.dll
